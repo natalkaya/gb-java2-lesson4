@@ -1,0 +1,17 @@
+.root {
+    -fx-font-size: 14;
+    -fx-background-color: ghostwhite;
+}
+
+#messagesArea {
+    -fx-background-color: #c0c6ff;
+    -fx-vgap: 1;
+}
+
+.text-field {
+    -fx-background-color: #c0c6ff;
+}
+
+.button {
+    -fx-background-color: #a68ea9;
+}
